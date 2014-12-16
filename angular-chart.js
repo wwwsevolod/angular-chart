@@ -72,6 +72,7 @@
                 lines: []
               },
               y: {
+                show: true,
                 lines: []
               }
             }
